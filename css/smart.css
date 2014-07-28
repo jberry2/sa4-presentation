@@ -8,9 +8,10 @@
  * GLOBAL STYLES
  *********************************************/
 body {
-/*background-image:url('../img/brickwall.png');
-background-repeat:repeat;*/
-background: #f9f9f9;
+background-image:url('../img/iphone.jpg');
+background-size: cover;
+background-color: rgba(50, 66, 92, .8);
+/*background: #f9f9f9;*/
   }
 
 .reveal {
@@ -35,19 +36,22 @@ background: #f9f9f9;
 .reveal h5,
 .reveal h6 {
   margin: 0 0 20px 0;
-  color: #2D3B53;
+  color: #a1c344;
   font-weight: 400;
   font-family: "lato", sans-serif;
+  text-align: left;
   
 }
 
 .reveal h2 {
   margin-bottom: 32px;
+
 }
 
 .reveal p,
 .reveal li {
-  color: #A1A8B9;
+  color: #7f8c8d;
+  text-align:left;
 }
 
 .reveal li {
