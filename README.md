@@ -9,4 +9,4 @@ Use this presentation as a starting point and make it your own. Be sure to save 
 
  - [Blog](http://www.blog.smartapps4.com)
  - [@Smartapps4](https://twitter.com/Smartapps4)
- - [Present Ionic Homepage](http://ionicframework.com/present-ionic/)
+ - [Smartapps4 Homepage](http://www.smartapps4.com)
