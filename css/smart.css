@@ -39,7 +39,7 @@ background-color: rgba(50, 66, 92, .8);
   color: #a1c344;
   font-weight: 400;
   font-family: "lato", sans-serif;
-  text-align: left;
+
   
 }
 
@@ -51,7 +51,6 @@ background-color: rgba(50, 66, 92, .8);
 .reveal p,
 .reveal li {
   color: #7f8c8d;
-  text-align:left;
 }
 
 .reveal li {
@@ -69,7 +68,7 @@ background-color: rgba(50, 66, 92, .8);
 
 .reveal blockquote {
   padding: 25px;
-  color: #38A4D2;
+  color: #DDD;
   display: block;
   position: relative;
   width: 70%;
